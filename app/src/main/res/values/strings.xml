@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">monCVApp</string>
+    <string name="nom">Hermann-Jude Rencontre</string>
+    <string name="tel">+33 695146009</string>
+    <string name="adresse">8 rue du demi cercle 93100 MONTREUIL</string>
+    <string name="email">h.jrencontre@outlook.com</string>
+
+    <string name="title_exp">Expériences</string>
+    <string name="title_form">Formations</string>
+    <string name="title_comp">Compétences</string>
+
+<!--    Array des Expériences
+    yearStart-yearEnd-company-description
+-->
+    <string-array name="experiences">
+        <item>
+            2020;2023;Opéra national de Paris;Développeur concepteur logiciel
+        </item>
+        <item>
+            2020;2020;Teletech International;Développeur commercial
+        </item>
+        <item>
+            2019;2020;Groupe Cybertek;Technico-commercial
+        </item>
+        <item>
+            2017;2018;McDonalds France;Equipier polyvalent
+        </item>
+    </string-array>
+
+<!--    Array list des Formations
+        yearStart-yearEnd-school-place
+-->
+    <string-array name="formations">
+        <item>
+            2016;2016;Baccalauréat ES;Lycée Paul Robert - Les Lilas (93)
+        </item>
+        <item>
+            2020;2022;BTS SIO Option SLAM;CFA INSTA - Paris (75)
+        </item>
+        <item>
+            2020;2023;Concepteur développeur d\'applications;CFA INSTA - Paris (75)
+        </item>
+    </string-array>
+
+</resources>
