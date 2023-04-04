@@ -58,8 +58,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/title_exp"
+        android:layout_marginStart="5sp"
         android:textSize="30sp"
         android:textStyle="bold" />
+
+
 
     <ListView
         android:id="@+id/listViewExp"
@@ -73,6 +76,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30sp"
+        android:layout_marginStart="5sp"
         android:text="@string/title_form"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -86,7 +90,7 @@
     </ListView>
 
     <Button
-        android:id="@+id/buttonCompentences"
+        android:id="@+id/buttonCompetences"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

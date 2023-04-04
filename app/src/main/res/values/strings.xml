@@ -8,6 +8,8 @@
     <string name="title_exp">Expériences</string>
     <string name="title_form">Formations</string>
     <string name="title_comp">Compétences</string>
+    <string name="title_lang">Langages</string>
+    <string name="title_projets">Projets</string>
 
 <!--    Array des Expériences
     yearStart-yearEnd-company-description
